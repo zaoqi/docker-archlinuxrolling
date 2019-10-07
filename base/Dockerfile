@@ -1,0 +1,1 @@
+FROM zaoqi/archlinux-rolling
